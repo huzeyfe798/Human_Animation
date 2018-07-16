@@ -5,7 +5,7 @@ press a : Hit a ball
 press y : Walk
 press q : Animation Between the current position and the animation.txt 
 press e : Shake hand
-press r : Reset 
+press r : Reset 3
 
 Install 
 
@@ -14,7 +14,7 @@ sudo apt-get install freeglut3-dev
 
 How to run it
 
-g++ 14290068and14290044.cpp -lglt -lGLU -lGL -lm
+g++ humananimation.cpp -lglt -lGLU -lGL -lm
 
 ./a.out
 
