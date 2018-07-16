@@ -1,5 +1,5 @@
 # Human_Animation
-
+Used library : Open GL <GL/glut.h>
 
 press a : Hit a ball
 press y : Walk
