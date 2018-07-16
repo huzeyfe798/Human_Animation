@@ -18,3 +18,5 @@ g++ 14290068and14290044.cpp -lglt -lGLU -lGL -lm
 
 ./a.out
 
+Created with: Burak Karakuş
+
